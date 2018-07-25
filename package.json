@@ -4,7 +4,7 @@
   "description": "",
   "main": "countAllFromTown.js",
   "directories": {
-    "test": "tests"
+    "tests": "test"
   },
   "scripts": {
     "test": "mocha"
