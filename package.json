@@ -22,5 +22,6 @@
   "homepage": "https://github.com/Trinesh1996/bootcamp-terminal-tests#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "dependencies": {}
 }
