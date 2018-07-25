@@ -1,0 +1,12 @@
+before_install:
+  - npm i -g npm@version-number
+
+  cache:
+  directories:
+    - "node_modules"
+
+
+language: node_js
+node_js:
+  - "iojs"
+  - "8.11.3"
